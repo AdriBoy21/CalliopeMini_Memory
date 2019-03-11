@@ -15,6 +15,8 @@ You have two moves. After the second move the light will show up but will disapp
 
 ## Code:
 The code was written in JavaScript with the MakeCode Editor (https://makecode.calliope.cc/).
+You have to import the mini-MemoryGame.hex into the MakeCode Editor, otherwhise you won´t be able to read code.
 For the most time, the Variables have german names.
 
-
+## License:
+The project has a MIT License. For more information, read LICENSE. If you distribute or share the code, please add a License and a Copyright notice.
