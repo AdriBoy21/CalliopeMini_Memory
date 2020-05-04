@@ -1,5 +1,6 @@
 # CalliopeMini_Memory
 A Memory game for Calliope Mini
+This is one of my school projects (2018, I guess).
 ## Controls:
 ### Button A:
 Moves to the left.  
